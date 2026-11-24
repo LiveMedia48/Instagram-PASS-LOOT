@@ -41,4 +41,4 @@ The script uses Instagram-py algorithm, see the project at: https://github.com/a
 ### Donate!
 Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
